@@ -5,6 +5,6 @@ def test():
 
     assert("print(a+b)" in __solution__ or "print( a+b )" in __solution__ or "print( a + b )" in __solution__ or "print(a + b)" in __solution__
            or "print( a+b)" in __solution__ or "print(a+b )" in __solution__ or "print(a +b)" in __solution__ or "print(a+ b)" in __solution__
-           or "print( a +b )" in __solution__ or "print( a+ b)" in __solution__ or "print(a +b )" in __solution__ or "print(a+ b )" in __solution__
+           or "print( a +b )" in __solution__ or "print( a+ b)" in __solution__ or "print(a +b )" in __solution__ or "print(a+ b )" in __solution__ or "print(a + b )" in __solution__
            ), "اجابة خاطئة: لم تقم بطباعة ناتج جمع المتغيرين بشكل صحيح"
     __msg__.good("اجابة صحيحة. احسنت")
