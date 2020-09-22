@@ -8,5 +8,5 @@ bath = 8.75
 # Create the areas list
 areas = [hall, kit, liv, bed, bath]
 
-# Print areas list
+# Print out areas list
 print(areas)

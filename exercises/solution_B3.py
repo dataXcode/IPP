@@ -12,8 +12,8 @@ house = [ ["hallway", hall],
           ['bedroom', bed],
           ['bathroom', bath] ]
 
-# Print house variable
+# Print out house variable
 print(house)
 
-# Print the type of house
+# Print out the type of house
 print(type(house))
