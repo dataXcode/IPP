@@ -2,7 +2,7 @@
 hall = 14.35
 kit = 15.0
 liv = 19.0
-bed = 12.50
+bed = 12.5
 bath = 8.75
 
 # Create house variable as list of lists
