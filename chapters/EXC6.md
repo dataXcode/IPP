@@ -1,29 +1,16 @@
 ---
-title: "EXC5"
-description: "exercise C5" 
+title: "EXC6"
+description: "exercise C6" 
 prev: /chapter1
 next: null
 type: chapter
-id: 21
+id: 22
 ---
 
 
-<codeblock id="C5">
+<codeblock id="C6">
   
 <div dir="RTL">  
-<p line-height:1.5">
-<strong>
-<font size="4" color="#09bef3" face="cairo">
-تلميحات:
-</font>
-</strong>
-</p>
-
-<p line-height:1.5">
-<font size="4" face="cairo">
-مساحة الدائرة تساوي باي math.pi مضروبة في نصف القطر تربيع r**2
-</font>
-</p>
 
 <br>
 <p line-height:1.5">

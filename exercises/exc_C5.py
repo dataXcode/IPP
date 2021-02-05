@@ -1,7 +1,7 @@
 # Radius
 r = 0.4
 
-# Import math module
+# Import math package
 ______ ____
 
 #2 Calculate A
