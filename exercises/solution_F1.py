@@ -7,11 +7,11 @@ while counter != 0:
   print("Great job")
   #3 if counter positive
   if counter > 0:
-    # Increase counter
+    # Decrease counter
     counter = counter - 1
   #4 else (negative)
   else:
-    # Decrease counter
+    # Increase counter
     counter = counter + 1
   #5 Print counter
   print(counter)
