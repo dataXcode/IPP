@@ -23,6 +23,6 @@ def test():
            or "counter=counter +1" in __solution__ or "counter=counter+ 1" in __solution__ or "counter=counter + 1" in __solution__
            ), "اجابة خاطئة: هناك خطأ في عداد الشرط الاخر"
 
-    assert("print(counter)" in __solution__ or "print( counter)" in __solution__ "print(counter )" in __solution__ "print( counter )" in __solution__
-           ), "اجابة خاطئة: هناك خطأ في طباعة العداد"
+    assert("print(counter)" in __solution__ or "print( counter)" in __solution__ or "print(counter )" in __solution__ or "print( counter )" in __solution__
+       ), "اجابة خاطئة: هناك خطأ في طباعة العداد"
     __msg__.good("اجابة صحيحة. احسنت")
