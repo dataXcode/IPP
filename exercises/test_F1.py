@@ -12,7 +12,7 @@ def test():
 
     assert("counter = counter - 1" in __solution__ or "counter = counter -1" in __solution__ or "counter = counter- 1" in __solution__ or "counter =counter - 1" in __solution__ or "counter= counter - 1" in __solution__
            or "counter=counter - 1" in __solution__ or "counter= counter- 1" in __solution__ or "counter= counter -1" in __solution__ or "counter= counter-1" in __solution__ or "counter=counter-1" in __solution__
-           "counter=counter -1" in __solution__ "counter=counter- 1" in __solution__ "counter=counter - 1" in __solution__
+           or "counter=counter -1" in __solution__ or "counter=counter- 1" in __solution__ or "counter=counter - 1" in __solution__
            ), "اجابة خاطئة: هناك خطأ في عداد الشرط الاول"
 
     assert("else" in __solution__
@@ -20,7 +20,7 @@ def test():
 
     assert("counter = counter + 1" in __solution__ or "counter = counter +1" in __solution__ or "counter = counter+ 1" in __solution__ or "counter =counter + 1" in __solution__ or "counter= counter + 1" in __solution__
            or "counter=counter + 1" in __solution__ or "counter= counter+ 1" in __solution__ or "counter= counter +1" in __solution__ or "counter= counter+1" in __solution__ or "counter=counter+1" in __solution__
-           "counter=counter +1" in __solution__ "counter=counter+ 1" in __solution__ "counter=counter + 1" in __solution__
+           or "counter=counter +1" in __solution__ or "counter=counter+ 1" in __solution__ or "counter=counter + 1" in __solution__
            ), "اجابة خاطئة: هناك خطأ في عداد الشرط الاخر"
 
     assert("print(counter)" in __solution__ or "print( counter)" in __solution__ "print(counter )" in __solution__ "print( counter )" in __solution__
