@@ -7,11 +7,11 @@ __________________:
   __________________
   #3 if counter positive
   ______________:
-    # Increase counter
+    # Decrease counter
     _____________________
   #4 else (negative)
   ____:
-    # Decrease counter
+    # Increase counter
     _____________________
   #5 Print counter
   ______________
