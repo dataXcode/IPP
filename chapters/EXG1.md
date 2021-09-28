@@ -25,7 +25,7 @@ id: 40
 <ol line-height:1.5">
 <font size="3.5" face="cairo">
 <li>
-من اجل تسهيل المهمة عليك قم بصناعة اربعة متغيرات max_num & min_num & first_num & last_num  
+من اجل تسهيل المهمة عليك قم بصناعة اربعة متغيرات داخل الوظيفه max_num & min_num & first_num & last_num  
 </li>
   
 <li>
