@@ -7,4 +7,4 @@ def max_min_first_last(nlist):
     last_num = nlist[-1] # Last number
     return max_num, min_num, first_num, last_num
 
-max_min_first_last(num_list)
+print( max_min_first_last(num_list) )
