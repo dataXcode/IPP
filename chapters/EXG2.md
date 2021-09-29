@@ -1,14 +1,14 @@
 ---
-title: "EXG1"
-description: "exercise G1" 
+title: "EXG2"
+description: "exercise G2" 
 prev: /chapter1
 next: null
 type: chapter
-id: 40
+id: 41
 ---
 
 
-<codeblock id="G1">
+<codeblock id="G2">
   
 <div dir="RTL">   
   
