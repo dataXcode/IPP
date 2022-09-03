@@ -8,4 +8,4 @@ width = 5
 area = length * width
 
 # قم بطباعة مساحة المستطيل
-print("Area of Rectangle", area)
+print(area)
